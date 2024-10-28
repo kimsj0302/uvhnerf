@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+PG_base_data/
+log/
+command.txt
