@@ -3,4 +3,4 @@ __pycache__/
 PG_base_data/
 log/
 command.txt
-@eaDir/
+configs/
